@@ -1,0 +1,22 @@
+status: 200
+date: Thu, 12 May 2022 08:18:41 GMT
+server: gunicorn/19.8.1
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: 92c1e595fa54c70c984607f9a7b06ac34491774d
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: 92c1e595fa54c70c984607f9a7b06ac34491774d
+x-request-id: 92895bef-bede-479a-9b5a-ac201b4083bd
+content-length: 1734
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~yann1ck?name=%22onedrive%22&ws.op=getPPAByName
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"self_link": "https://api.launchpad.net/devel/~yann1ck/+archive/ubuntu/onedrive", "web_link": "https://launchpad.net/~yann1ck/+archive/ubuntu/onedrive", "resource_type_link": "https://api.launchpad.net/devel/#archive", "owner_link": "https://api.launchpad.net/devel/~yann1ck", "name": "onedrive", "displayname": "onedrive-abraunegg", "reference": "~yann1ck/ubuntu/onedrive", "distribution_link": "https://api.launchpad.net/devel/ubuntu", "private": false, "suppress_subscription_notifications": false, "dependencies_collection_link": "https://api.launchpad.net/devel/~yann1ck/+archive/ubuntu/onedrive/dependencies", "description": "A free Microsoft OneDrive Client which supports OneDrive Personal, OneDrive for Business, OneDrive for Office365 and SharePoint. This powerful and highly configurable client can run on all major Linux distributions, FreeBSD, or as a Docker container. It supports one-way and two-way sync capabilities and securely connects to Microsoft OneDrive services.\n\nLink to Github for more information:\nhttps://github.com/abraunegg/onedrive", "signing_key_fingerprint": "E2FB3A8B1D64A13B844479700512B5FE7F557AB1", "require_virtualized": true, "build_debug_symbols": false, "publish_debug_symbols": false, "permit_obsolete_series_uploads": false, "authorized_size": 2048, "status": "Active", "external_dependencies": null, "processors_collection_link": "https://api.launchpad.net/devel/~yann1ck/+archive/ubuntu/onedrive/processors", "enabled_restricted_processors_collection_link": "https://api.launchpad.net/devel/~yann1ck/+archive/ubuntu/onedrive/enabled_restricted_processors", "relative_build_score": 0, "http_etag": "\"07678606f34913e5c50bdc0506a717ed985ba6a9-d7c9a21029b7f1f5038d5405cf08608ac3d1ffb2\""}
